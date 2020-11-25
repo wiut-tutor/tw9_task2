@@ -1,5 +1,5 @@
 class Student:
-	def __int__(self, id, marks):
+	def __init__(self, id, marks):
 		self.id = id
 		self.marks = marks
 
